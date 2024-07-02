@@ -20,10 +20,10 @@
 
 #### Sei
 - Conceitos de CSS e HTML
-- Manipulação dos containers com FlexBox
 - Utilização de formulários
+- Tags HTML
 - Responsividade da página web
-- Figma e Penpot
+- Basico de Figma e Penpot
 
 #### Quero Saber
 - React
@@ -32,5 +32,23 @@
 #### Aprendi
  - Manipulação dos containers com FlexBox
  - Layout Flexível
- - Avançado Figma e Penpot
+ - intermediário Figma e Penpot
+
+### 1 de julho de 2024
+
+#### Sei
+- Conceitos de CSS e HTML
+- Utilização de formulários
+- Responsividade da página web
+- Basico de Figma e Penpot
+- Manipulação dos containers com FlexBox
+- Layout Flexível
+- intermediário Figma e Penpot
+
+#### Quero Saber
+- React
+- typescrip no front
+
+#### Aprendi
+- Organização e Boas Práticas
 
