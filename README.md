@@ -16,7 +16,7 @@ Matriz SQA/KWL (Sei/Quero Saber/Aprendi)
 |-----------------------------|--------------------------------------|------------------------------|
 | Conceitos de CSS e HTML     | React                                | Layout Flexível              |
 | Utilização de formulários   | Typescript no front                  | Intermediário Figma e Penpot |
-| Basico de Figma e Penpot    |                                      | Manipulação dos containers com FlexBox |
+| Basico de Figma e Penpot    | Responsividade da página web         | Manipulação dos containers com FlexBox |
 
 ### 1 de julho de 2024
 
